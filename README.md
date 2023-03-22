@@ -1,6 +1,6 @@
 # Zotero_RemoveParents
 
-This program deletes items from Zotero collections if the items are also present in child collections.
+This program deletes items from Zotero collections if the items are also present in child collections (sub-collections).
 
 It therefore eliminates duplicate filing of items in parent collections after an import of library from Papers3 (I found this to be a problem with my library when I transfered my collections with the python scripts).
 
