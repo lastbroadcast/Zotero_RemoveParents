@@ -6,5 +6,14 @@ It therefore eliminates duplicate filing of items in parent collections after an
 
 Run this script after transfering the collections from Papers3 to Zotero using the scripts FromPapers and ToZotero.
 
-Note: Back-up Zotero library before running this!! (See readme of ToZotero for instructions).
+
+Instructions:
+
+-Back-up Zotero library before running this!! (See readme of ToZotero for instructions).
+
+-Make sure the path to the Zotero database ('zotero.sqlite') is correct (line 40 of script).
+
+-Make sure Zotero is closed.
+
+-Run script.
 
